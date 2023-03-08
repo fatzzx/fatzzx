@@ -9,4 +9,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fatzzx&bg_color=000000&color=1d379f&line=0000ff&point=223753&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fatzzx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
